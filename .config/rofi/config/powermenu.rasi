@@ -1,6 +1,6 @@
 configuration {
     show-icons:                     true;
-    display-drun: 		            "";
+    display-drun: 		            "";
     drun-display-format:            "{icon} {name}";
     disable-history:                false;
     click-to-exit: 		            false;
@@ -43,7 +43,7 @@ textbox-prompt-colon {
     background-color:               @BG;
     text-color:                     @BG;
     padding:                        8px 12px 8px 12px;
-    font:			                "Iosevka Nerd Font 10";
+    font:			                "Font Awesome 6 Free Solid 10";
 }
 
 entry {
@@ -116,7 +116,7 @@ element-icon {
 element-text {
     background-color: 		        inherit;
     text-color:       		        inherit;
-    font:			                "Iosevka Nerd Font 20";
+    font:			                "Font Awesome 6 Free Solid 20";
     expand:                         true;
     horizontal-align:               0.5;
     vertical-align:                 0.5;
