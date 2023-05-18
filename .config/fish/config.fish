@@ -1,8 +1,8 @@
 if status is-interactive
 # Commands to run in interactive sessions can go here
 pfetch
+alias cl="clear"
 alias cat="bat"
-alias neofetch="fastfetch"
 alias sudo="doas"
 alias paru="paru --noconfirm"
 alias p="paru --noconfirm"
