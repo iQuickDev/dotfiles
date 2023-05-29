@@ -51,10 +51,11 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id picom -b --animations --animation-window-mass 0.5 --animation-for-open-window zoom --animation-stiffness 300 --experimental-backends
 exec --no-startup-id polkit-dumb-agent
+exec --no-startup-id dunst
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id $HOME/.config/copyq/launch.sh
 exec --no-startup-id kdeconnect-indicator
-exec udiskie -an --smart-tray -f thunar
+exec udiskie -an --smart-tray -f dolphin
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
