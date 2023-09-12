@@ -6,4 +6,4 @@
 ![](screenshots/apps.png)
 ![](screenshots/code.png)
 
-My setup is heavily relies on the [Catppuccin](https://github.com/catppuccin) project
+My setup heavily relies on the [Catppuccin](https://github.com/catppuccin) project
